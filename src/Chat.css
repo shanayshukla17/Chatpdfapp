@@ -1,0 +1,124 @@
+.main_chat {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.chat-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    height: 90%;
+    width: 70%;
+    background-color: #00000000; /* Change the background color */
+    border-radius: 10px; /* Add border radius */
+    padding: 20px; /* Add padding */
+   
+}
+
+.chat-show {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    overflow-y:auto; /* Add vertical scroll */
+    scroll-behavior: smooth;
+    scrollbar-color: #ff8585;
+    scrollbar-width: 0.1rem;
+    scrollbar-width:thin ;
+    scroll-behavior: smooth;
+    height: 80%;
+    width: 100%;
+}
+
+.chat-message {
+    margin-bottom: 10px; /* Add margin between messages */
+    padding: 10px; /* Add padding */
+    border-radius: 8px; /* Add border radius */
+    background-color: #fff; /* Change background color */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow */
+    max-width: 80%; /* Limit message width */
+}
+
+.chat-message.user {
+    align-self: flex-end; /* Align user messages to the right */
+    background-color: #beffb8; /* Change user message color */
+    color: #050505;
+}
+
+.chat-message.model {
+    align-self: flex-start; /* Align model messages to the left */
+    background-color: #000000; /* Change model message color */
+    color: #fff;
+}
+
+.input_div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px; /* Add margin */
+    width: 100%;
+}
+
+.input_field {
+    flex: 1; /* Take remaining width */
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-right: 10px; /* Add margin */
+    font-size: 16px;
+    height: 2rem;
+    color: #fff;
+    background-color: #181818;
+    border: 1px solid #3d3d3d;
+}
+
+.arrow {
+    background-color: #050505;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 10px; /* Adjust the padding to change the size of the button */
+}
+
+
+.arrow:hover{
+    background-color: #868686;
+    transition: 0.3s;
+}
+
+.arrow img {
+    height: 20px; /* Adjust the height of the image */
+}
+
+
+@media screen and (max-width:962px){
+    .main_chat {
+        height: 90vh;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+
+.chat-message.model h2 {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 0.5em 0;
+}
+
+.chat-message.model h3 {
+    font-size: 1em;
+    font-weight:300;
+    margin: 0.5em 0;
+}
+
+.chat-message.model p {
+    margin: 0.2em 0;
+}

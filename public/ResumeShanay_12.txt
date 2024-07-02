@@ -1,0 +1,47 @@
+Shanay Shukla
+• shanayshukla17@gmail.com • Website- Document (shanayshukla17.github.io) •Shanay Shukla | LinkedIn
+Experience
+Software Engineer Intern in Hi Rapid Labs Aug 2023 - Jan 2024
+•Developed a robust website with seamless backend integration, facilitating easy content updates and modifications. •Led the
+implementation of enhanced authentication and encryption, ensuring secure access for authorized personnel. •Conducted
+comprehensive research on object detection models, evaluating accuracy using consistent datasets. •Applied findings to align project
+requirements with company objectives, achieving successful implementation of an optimized solution.
+Software Engineer Intern in Constellation Nov 2023 - Dec 2023
+• Demonstrated expertise in understanding the various stages of the software development lifecycle. • Executed the design and
+development of portal applications utilizing Drupal/PHP Framework. • Collaborated effectively with a team to deliver high-quality
+application development results.
+Software Engineer Intern in Kenpath Aug 2023 - Oct 2023
+•Workedwith a diverse teamto refine existingcode, boostingcode quality andsystem performance. • Built a robust API for streamlined
+CRUD operations, enhancing data management and system efficiency. • Showcased expertise in AWS services, effectively applying
+industry-specific terminology.
+Projects
+Website For Comprehensiv Project, Website for masking Sensitive Data Aug 2023 - Sep 2023
+• (Under Hi Rapid Lab) Created a website showcasing project images with GPS coordinates on a map, effectively demonstrating the
+coverage of HRL's projects to stakeholders. • Implemented a portal that automatically removes personal identifiers, meta data, and
+masks human faces from uploaded photos, ensuring project image de-identification and secure sharing with researchers from other
+institutions
+Three JS Card / Solar System Aug 2023 - Sep 2023
+• Developed a website utilizing 3JS framework, implementing the CSS3D model and camera positioning. • Built a solar system with
+free camera movement and fixed-point lighting concept • Demonstrated passion for web development by creating visually appealing
+Card renderings with meticulous attention to detail.
+Portfolio Website Aug 2023 - Aug 2023
+• Used Gsap to create stunning UI designs and animation • API integration • Backend used Node, Mongo, Express and many node
+modules
+Education
+Bachelor of Technology (Btech) • Vellore Institute of Technology Apr 2021 – Present
+(Computer Science) • CGPA: 9.34 • Enrolled in B. Tech program at VIT Vellore, actively pursuing studies in Computer Science and
+maintaining an impressive CGPA of 9.34
+Junior College • Heritage international School Mar 2020 - Mar 2021
+(PCM) • Grade: 88%
+Matriculation • Hem Sheela Model School Durgapur, India Jan 2018 - Apr 2019
+• Grade: 92.4%
+Skills
+• C++ • Java •Python • Javascript •NodeJS •ExpressJS •SQL •PostgreSQL •MongoDB •AWS (Basic Storage and
+authorization) •ReactJS
+Achievements and Certifications
+• Selected for Yantra Hackathon, Jul 2023, at Vellore Institute of Technology, Vellore, Tamil Nadu.
+• Published a book chapter on the topic“Introduction to Fourth Industrial Revolution and Its Impact On Healthcare “ in
+DeGruyter
+• Completed 2 Udemy courses on Web Development by Angela Yu and Colt Steel.
+• Completed two courses on Data Structures and Algorithms (DSA) from Coding Ninjas and Codehelp
+
